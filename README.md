@@ -28,8 +28,6 @@ The dataset used in this project (`spam_email_dataset.csv`) contains the followi
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Install the required libraries mentioned in `requirements.txt`.
+2. Install the required libraries.
 3. Run the code in a Jupyter Notebook or Python environment.
 
-Feel free to explore and modify the code to fit your specific requirements. Happy coding!
-# email-spam-prediction
